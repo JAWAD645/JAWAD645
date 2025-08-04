@@ -1,5 +1,16 @@
 <!-- Banner with reduced height -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%" height="400" />
+<h1 align="center">Hi 👋, I'm Mohammad Jawadul Tashick</h1>
+<h3 align="center">A Passionate CS Graduate diving into AI,ML & cool web projects.</h3>
+
+
+- 🔭 I’m currently working on **WordPress**
+
+- 🌱 I’m currently learning **Data Analysis**
+
+- 💬 Ask me about **PC Component**
+
+- ⚡ Fun fact **I think I am cool**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JawadTashick)
