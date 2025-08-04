@@ -1,7 +1,12 @@
 <!-- Banner with reduced height -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="100%" height="400" />
-<h1 align="center">Hi 👋, I'm Mohammad Jawadul Tashick</h1>
-<h3 align="center">A Passionate CS Graduate diving into AI,ML & cool web projects.</h3>
+<!--h1 align="center">Hi 👋, I'm Mohammad Jawadul Tashick</h1-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Jawadul+Tashick" />
+</p>
+<!--h3 align="center">A Passionate CS Graduate diving into AI,ML & cool web projects.</h3-->
+<h2>👨‍💻 About Me</h2>
+<p>I'm a Computer Science graduate from <strong>BRAC University</strong> with experience in web development, Artificial Intelligence, and Machine Learning. I’ve also worked on <strong>Behavioral Economics</strong> within the field of <strong>Human-Computer Interaction (HCI)</strong>, an area I’m deeply enthusiastic about. I love turning ideas into real, usable projects and picking up new skills along the way. Curious by nature, I’m always exploring, building, and sharing to grow with the tech community.</p>
 
 
 - 🔭 I’m currently working on **WordPress**
