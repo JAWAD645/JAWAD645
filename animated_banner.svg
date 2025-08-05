@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100%" height="100%" viewBox="0 0 1365 768" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <image href="github_banner_frame.png" x="0" y="0" height="768px" width="1365px">
+    <animateTransform attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      values="0,0; 0,-10; 0,0; 0,10; 0,0"
+                      dur="6s"
+                      repeatCount="indefinite"/>
+  </image>
+</svg>
