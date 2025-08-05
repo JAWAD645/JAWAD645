@@ -1,5 +1,5 @@
 <!-- Banner with reduced height -->
-<img src="https://s4.ezgif.com/tmp/ezgif-4ef4aa427ac6c8.gif" alt="MasterHead" width="100%" height="400" />
+<img src="D:\Screen Record(GIF)\vertopal.com_github banner.apng" alt="MasterHead" width="100%" height="400" />
 <!--h1 align="center">Hi 👋, I'm Mohammad Jawadul Tashick</h1-->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Jawadul+Tashick" />
