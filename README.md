@@ -9,17 +9,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Jawadul+Tashick" />
 </p>
 <!--h3 align="center">A Passionate CS Graduate diving into AI,ML & cool web projects.</h3-->
-<h2>👨‍💻 About Me</h2>
+<h2>👨‍💻 About Me  </h2> 
+
+
 <p>I'm a Computer Science graduate from <strong>BRAC University</strong> with experience in web development, Artificial Intelligence, and Machine Learning. I’ve also worked on <strong>Behavioral Economics</strong> within the field of <strong>Human-Computer Interaction (HCI)</strong>, an area I’m deeply enthusiastic about. I love turning ideas into real, usable projects and picking up new skills along the way. Curious by nature, I’m always exploring, building, and sharing to grow with the tech community.</p>
 
 
 - 🔭 I’m currently working on **WordPress**
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Data Analysis**                                  
 
 - 💬 Ask me about **PC Component**
 
-- ⚡ Fun fact **I think I am cool**
+- ⚡ Fun fact **I think I am cool** 
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JawadTashick)
@@ -49,10 +52,15 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=JAWAD645&theme=neon&hide_border=false" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF Banner" width="55%" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JAWAD645&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
+
+## 🏆 GitHub Trophies  
+
+![](https://github-profile-trophy.vercel.app/?username=JAWAD645&theme=neon&no-frame=false&no-bg=true&margin-w=4) 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JAWAD645&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
