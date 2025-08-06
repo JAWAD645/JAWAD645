@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://i.postimg.cc/wTtpt4H3/github-banner.gif)]-->
 <!--img src="animated_banner_inline.svg" alt="Animated GitHub Banner" /-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JAWAD645/JAWAD645/refs/heads/main/banner.svg" alt="Banner" width="1000" height="700" />
+  <img src="https://raw.githubusercontent.com/JAWAD645/JAWAD645/refs/heads/main/new%20final%20banner.svg" alt="Banner" width="100%" height="auto" />
 </p>
 
 <!--h1 align="center">Hi 👋, I'm Mohammad Jawadul Tashick</h1-->
